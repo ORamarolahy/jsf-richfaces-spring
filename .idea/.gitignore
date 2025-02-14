@@ -17,5 +17,5 @@
 bin
 bin/**
 temp/
-target
+*target*
 *.class
