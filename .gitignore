@@ -1,0 +1,18 @@
+# Eclipse files
+.classpath
+.metadata
+.project
+.settings
+.wtpmodules
+
+# Idea IDE
+.idea/*
+## Except for the theme directory:
+!.idea/runConfigurations/
+
+# Java build files
+bin
+bin/**
+temp/
+**target**
+*.class
